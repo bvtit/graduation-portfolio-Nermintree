@@ -3400,7 +3400,7 @@ fieldset[disabled] .btn-danger.focus {
 }
 .btn-link {
   font-weight: normal;
-  color: #337888;
+  color: #621949;
   border-radius: 0;
 }
 .btn-link,
@@ -3408,7 +3408,7 @@ fieldset[disabled] .btn-danger.focus {
 .btn-link.active,
 .btn-link[disabled],
 fieldset[disabled] .btn-link {
-  background-color: transparent;
+  background-color: blue;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -3428,7 +3428,7 @@ fieldset[disabled] .btn-link {
 fieldset[disabled] .btn-link:hover,
 .btn-link[disabled]:focus,
 fieldset[disabled] .btn-link:focus {
-  color: #777;
+  color: #666;
   text-decoration: none;
 }
 .btn-lg,
